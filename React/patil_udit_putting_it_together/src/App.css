@@ -1,0 +1,18 @@
+.App {
+  text-align:center;
+}
+
+h1, p{
+  margin: 0 auto;
+  width: 250px;
+  text-align: start;
+}
+button{
+  margin: 20px;
+  border: none;
+  padding: 15px;
+  width: 300px;
+  border-radius: 5px;
+}
+
+
