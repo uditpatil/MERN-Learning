@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  width: 0 auto;
+  margin: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form-control{
+  border: none;
+  background-color: lightgray;
+  border-radius: 5px;
+  padding: 15px;
+  margin: 20px ;
+  width: 350px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.input-field{
+  border: none;
+  background-color: whitesmoke;
+  border-radius: 5px;
+  width: 150px;
+  padding: 10px;
+  display: flex;
+  justify-content: flex-end;
+  margin: 0 50px 10px 40px;
+
+}
